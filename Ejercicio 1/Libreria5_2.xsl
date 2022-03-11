@@ -3,7 +3,7 @@
     <xsl:template match="/">
         <html>
             <body>
-                <h1>Ejemplo plantillas</h1>
+                <h1>PRUEBA</h1>
                 <xsl:apply-templates />
             </body>
         </html>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<CDs>
+    <CD>
+        <Título_del_album>EL JAVI</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>EL JAVI</Sello_discográfico>
+        <Año_de_publicación>2000</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>EL CRIS</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>EL CRIS</Sello_discográfico>
+        <Año_de_publicación>1996</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>EL ANDRES</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>EL ANDRES</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>JUAN CARLOS</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>JUAN</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>CARLOS</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>FELIX</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>PEPE</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>JUAN RAMON</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+    <CD>
+        <Título_del_album>JULIO</Título_del_album>
+        <Cancion tiempo="281">LA VIDA</Cancion>
+        <Cancion tiempo="281">LA MUERTE</Cancion>
+        <Cancion tiempo="281">EL CAMINO</Cancion>
+        <Cancion tiempo="281">LA LLEGADA</Cancion>
+        <Cancion tiempo="281">LAS LAGRIMAS</Cancion>
+        <Sello_discográfico>Kenny Erleben</Sello_discográfico>
+        <Año_de_publicación>1995</Año_de_publicación>
+    </CD>
+</CDs>
