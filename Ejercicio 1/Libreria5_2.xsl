@@ -44,18 +44,4 @@
             <xsl:value-of select="." />
         </td>
     </xsl:template>
-    <xsl:template match="numPaginas">
-        <xsl:choose>
-            <xsl:when test=". &gt; 150">
-                <td bgcolor="#ff0000">
-                    <xsl:value-of select="." />
-                </td>
-            </xsl:when>
-            <xsl:otherwise>
-                <td bgcolor="#FFF">
-                    <xsl:value-of select="." />
-                </td>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
 </xsl:stylesheet>
