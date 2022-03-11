@@ -7,11 +7,14 @@
         <table border="1">
         <tr bgcolor="#FF7F00">
             <th>Título_del_album</th>
+
             <th>Sello_discográfico</th>
+
             <th>Año_de_publicación</th>
+            
             <th>Cancion</th>
         </tr>
-        <xsl:for-each select="CDs/CD">
+        <xsl:for-each select="CDs/CD[Sello_discográfico='EL CRIS']">
         <tr>
             <td>
                 <xsl:value-of select="Título_del_album"/>

@@ -11,7 +11,7 @@
             <th>Año_de_publicación</th>
             <th>Cancion</th>
         </tr>
-        <xsl:for-each select="CDs/CD">
+        <xsl:for-each select="CDs/CD[Título_del_album='EL JAVI']">
         <tr>
             <td>
                 <xsl:value-of select="Título_del_album"/>

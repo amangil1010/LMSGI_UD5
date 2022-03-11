@@ -7,8 +7,11 @@
         <table border="1">
         <tr bgcolor="#FF7F00">
             <th>Título_del_album</th>
+
             <th>Sello_discográfico</th>
+
             <th>Año_de_publicación</th>
+            
             <th>Cancion</th>
         </tr>
         <xsl:for-each select="CDs/CD">
@@ -24,8 +27,10 @@
             </td>
             <td>
                 <xsl:for-each select="Cancion">
+                    <xsl:if test="@tiempo &lt; 6">
                     <xsl:value-of select="."/>
                     <br/>
+                    </xsl:if>
                 </xsl:for-each>
             </td>
         </tr>
